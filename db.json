@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Electroics",
+      "freshness": "Second Hand",
+      "price": 300,
+      "comment": "mobile",
+      "date": "2022-04-08T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electroics",
+      "freshness": "Refurbished",
+      "price": 100,
+      "comment": "mobile",
+      "date": "2022-04-15T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
